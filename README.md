@@ -6,6 +6,9 @@ This project consis of a pyhton file which is a machine learning model,which can
 Along with the code here is the dataset of iris flower which is used in the model to train.
 
 sales.py:
-This perticular machine learnign languege can predict the sales by considering the previous sales.
+This perticular machine learnign languege can predict the sales by considering the previous sales.The advertising.csv file provide the data set of last few sales.
+
+Unemployment.py:
+This ML model predict he unemployment in the india during covid, and un.csv file is dataset of few records.
 
 
